@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534692478413",
+    "project_id": "mhforum-4fc28",
+    "storage_bucket": "mhforum-4fc28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534692478413:android:fbd5184e5be9f866511884",
+        "android_client_info": {
+          "package_name": "com.primesh.mh_forum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534692478413-osj35s63donooug42iet8h2miglp55c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK2jFwhoJTXsxgvWZii73RuKOadDD7Egk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534692478413-osj35s63donooug42iet8h2miglp55c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
